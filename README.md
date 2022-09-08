@@ -1,6 +1,4 @@
 # kpwdenc
-Esse algoritmo é um simples codificador de senhas que trabalha como um "embaralhador" de caracteres.
-
 /*
 	Esse algoritmo é um simples codificador de senhas
 	que trabalha como um "embaralhador" de caracteres.
